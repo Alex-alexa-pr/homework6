@@ -19,3 +19,5 @@ console.log (division);
 let exponentiation = a ** b;
 alert (exponentiation);
 console.log (exponentiation);
+
+console.log("New feature");
